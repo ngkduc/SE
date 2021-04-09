@@ -1,0 +1,15 @@
+- Tuần 1:
+1.Báo cáo nhóm:
+*, DONE:
+CÀI ĐẶT THÀNH CÔNG ANACONDA,OPENCV
+*,VƯỚNG MẮC:
+- Xây dựng chatbox 
+*, kế hoạch tuần sau:
+- tìm ra phương án xây dựng chatbox tốt nhất
+2. cá nhân
+-Dương Thị Thu Huyền:
+*Done: tìm hiểu về yolo
+* vướng mắc :
+xây dựng model, xây dựng chatbox
+*kế hoạch tuần sau:
+- tìm ra phương án xây dựng chatbox tốt nhất
